@@ -30,7 +30,7 @@ Developer Gururaj {
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 What Have Buid
 
 ### [AutoPaper](https://github.com/gururajlande7/Autopaper) — *Live in Production*
 > AI-powered question paper generator for SSC Maharashtra Board & CBSE Class 10
