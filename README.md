@@ -30,15 +30,14 @@ Developer Gururaj {
 
 ---
 
-## 🚀 What Have Buid
+## 🚀 My Projects
 
-### [AutoPaper](https://github.com/gururajlande7/Autopaper) — *Live in Production*
-> AI-powered question paper generator for SSC Maharashtra Board & CBSE Class 10
+### [AutoPaper](https://github.com/gururajlande7/Autopaper) 
+> Question paper generator for SSC Maharashtra Board Class 10
 
 - **3000+ question bank** across Science chapters, with KaTeX math rendering
-- Full-stack: **Node.js / Express / MongoDB / EJS**, deployed on **Render**
+- Full-stack: **Node.js / Express / MongoDB / Render**, deployed on **Vercel**
 - PDF generation, chapter-wise filtering, difficulty tagging
-- Currently migrating to **Next.js + TypeScript**
 
 **The real differentiator:** Built for an actual market. Not a tutorial clone.
 
