@@ -20,12 +20,11 @@
 
 ```cpp
 Developer Gururaj {
-  college  : "Modern College of Engineering, Pune (SPPU)";
   year     : "First Year — Computer Engineering";
-  building : "AutoPaper — EdTech for SSC & CBSE Class 10";
+  project : "AutoPaper — EdTech for SSC Class 10";
   grinding : "DSA in C++ | LeetCode 75 | 500+ problems goal";
   learning : "React → Next.js | TypeScript | System Design";
-  target   : "SWE Internship @ EdTech startup, Summer 2027";
+  target   : "SWE Internship , Summer 2027";
 }
 ```
 
@@ -36,7 +35,7 @@ Developer Gururaj {
 ### [AutoPaper](https://github.com/gururajlande7/Autopaper) — *Live in Production*
 > AI-powered question paper generator for SSC Maharashtra Board & CBSE Class 10
 
-- **930+ question bank** across Science chapters, with KaTeX math rendering
+- **3000+ question bank** across Science chapters, with KaTeX math rendering
 - Full-stack: **Node.js / Express / MongoDB / EJS**, deployed on **Render**
 - PDF generation, chapter-wise filtering, difficulty tagging
 - Currently migrating to **Next.js + TypeScript**
@@ -100,7 +99,7 @@ Developer Gururaj {
 
 ## ⚔️ DSA Progress
 
-[![LeetCode Stats](https://leetcard.jacoblin.com/GururajLande?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/GururajLande/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-GururajLande-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/GururajLande/)
 
 **Repo:** [`Leeetcode`](https://github.com/gururajlande7/Leeetcode) — Solving LeetCode 75 study plan in **C++** | Target: 500+ problems
 
