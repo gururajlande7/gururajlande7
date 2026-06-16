@@ -6,11 +6,11 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet&label=Profile+Views)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=gururajlande7&style=flat-square&color=blueviolet&label=Profile+Views)](https://github.com/gururajlande7)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/gururaj-lande)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Grinding-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Grinding-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/GururajLande/)
 
 </div>
 
@@ -25,7 +25,7 @@ Developer Gururaj {
   building : "AutoPaper — EdTech for SSC & CBSE Class 10";
   grinding : "DSA in C++ | LeetCode 75 | 500+ problems goal";
   learning : "React → Next.js | TypeScript | System Design";
-  target   : "SWE Internship @ EdTech startup, Summer 2026";
+  target   : "SWE Internship @ EdTech startup, Summer 2027";
 }
 ```
 
@@ -33,7 +33,7 @@ Developer Gururaj {
 
 ## 🚀 What I'm Building
 
-### [AutoPaper](https://github.com/YOUR_USERNAME/AutoPaper) — *Live in Production*
+### [AutoPaper](https://github.com/gururajlande7/Autopaper) — *Live in Production*
 > AI-powered question paper generator for SSC Maharashtra Board & CBSE Class 10
 
 - **930+ question bank** across Science chapters, with KaTeX math rendering
@@ -84,15 +84,15 @@ Developer Gururaj {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gururajlande7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gururajlande7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img src="https://streak-stats.demolab.com?user=gururajlande7&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
@@ -100,9 +100,9 @@ Developer Gururaj {
 
 ## ⚔️ DSA Progress
 
-[![LeetCode Stats](https://leetcard.jacoblin.com/YOUR_LEETCODE?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/YOUR_LEETCODE)
+[![LeetCode Stats](https://leetcard.jacoblin.com/GururajLande?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/GururajLande/)
 
-**Repo:** [`LeetCode-DSA`](https://github.com/YOUR_USERNAME/YOUR_DSA_REPO) — Solving LeetCode 75 study plan in **C++** | Target: 500+ problems
+**Repo:** [`Leeetcode`](https://github.com/gururajlande7/Leeetcode) — Solving LeetCode 75 study plan in **C++** | Target: 500+ problems
 
 ```
 Arrays & Hashing     ████████████░░░░  solving
@@ -119,13 +119,13 @@ Dynamic Programming  ░░░░░░░░░░░░░░░░  upcoming
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gururajlande7&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🎯 2026 Roadmap
+## 🎯 2026–27 Roadmap
 
 - [x] AutoPaper v1 — live on Render with 930+ question bank
 - [x] GitHub SSH setup + public DSA repo
@@ -151,4 +151,3 @@ Dynamic Programming  ░░░░░░░░░░░░░░░░  upcoming
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
 
 </div>
-# gururajlande7
