@@ -132,7 +132,7 @@ Dynamic Programming  ░░░░░░░░░░░░░░░░  upcoming
 - [ ] JWT auth implementation in AutoPaper
 - [ ] LeetCode 75 study plan (C++) — 500 problems goal
 - [ ] GSoC exploration & first open source contributions
-- [ ] **SWE Internship @ EdTech startup (Summer 2027)**
+- [ ] **SWE Internship (Summer 2027)**
 
 ---
 
