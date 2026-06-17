@@ -6,12 +6,18 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=gururajlande7&style=flat-square&color=blueviolet&label=Profile+Views)](https://github.com/gururajlande7)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/gururaj-lande)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Grinding-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/GururajLande/)
-
+<a href="https://github.com/gururajlande7">
+  <img height="42" src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/gururaj-lande">
+  <img height="42" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/GururajLande/">
+  <img height="42" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode"/>
+</a>
+<br/>
 </div>
 
 ---
@@ -96,10 +102,16 @@ Developer Gururaj {
 ---
 
 ## ⚔️ DSA Progress
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-GururajLande-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/GururajLande/)
+<br/>
+<div align="center">
+  <a href="https://leetcode.com/u/GururajLande/">
+    <img height="48" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode"/>
+  </a>
+</div>
+<br/>
 
 **Repo:** [`Leeetcode`](https://github.com/gururajlande7/Leeetcode) — Solving LeetCode 75 study plan in **C++** | Target: 500+ problems
+<br/>
 
 ```
 Arrays & Hashing     ████████████░░░░  solving
@@ -142,9 +154,3 @@ Dynamic Programming  ░░░░░░░░░░░░░░░░  upcoming
 > That's the bar I hold everything else to.
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
-
-</div>
