@@ -138,10 +138,9 @@ Dynamic Programming  ░░░░░░░░░░░░░░░░  upcoming
 
 - [x] AutoPaper v1 — live on Render with 930+ question bank
 - [x] GitHub SSH setup + public DSA repo
-- [ ] React fundamentals → quiz app side project
-- [ ] AutoPaper → Next.js + TypeScript migration
-- [ ] JWT auth implementation in AutoPaper
-- [ ] LeetCode 75 study plan (C++) — 500 problems goal
+- [ ] LeetCode(C++) — 500 problems goal
+- [ ] Learning OS and DBMS
+- [ ] Make your own Git
 - [ ] GSoC exploration & first open source contributions
 - [ ] **SWE Internship (Summer 2027)**
 
