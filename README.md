@@ -55,10 +55,8 @@ Developer Gururaj {
 ### Frontend
 <img height="55" src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="55" src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="55" src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="55" src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="55" src="https://skillicons.dev/icons?i=nextjs" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="55" src="https://skillicons.dev/icons?i=ts" />
 <br/>
 
 ### Backend
@@ -72,7 +70,8 @@ Developer Gururaj {
 
 ### Languages
 <img height="55" src="https://skillicons.dev/icons?i=cpp" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="55" src="https://skillicons.dev/icons?i=c" />
+<img height="55" src="https://skillicons.dev/icons?i=c" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="55" src="https://skillicons.dev/icons?i=js" />
 <br/>
 
 ### Tools
