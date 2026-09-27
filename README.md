@@ -1,154 +1,104 @@
-<div align="center">
+<div align="">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Gururaj&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%20%E2%80%94%20from%20Pune&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+# Gururaj Lande
 
-</div>
+Computer Engineering student building full-stack products and preparing for a software engineering internship.
 
-<div align="center">
-
-<a href="https://github.com/gururajlande7">
-  <img height="42" src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/gururaj-lande">
-  <img height="42" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/GururajLande/">
-  <img height="42" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode"/>
-</a>
-<br/>
-</div>
-
----
-
-## $ whoami
-
-```cpp
-Developer Gururaj {
-  year     : "First Year — Computer Engineering";
-  project : "AutoPaper — EdTech for SSC Class 10";
-  grinding : "DSA in C++ | LeetCode 75 | 500+ problems goal";
-  learning : "React → Next.js | TypeScript | System Design";
-  target   : "SWE Internship , Summer 2027";
-}
-```
-
----
-
-## 🚀 My Projects
-
-### [AutoPaper](https://github.com/gururajlande7/Autopaper) 
-> Question paper generator for SSC Maharashtra Board Class 10
-
-- **3000+ question bank** across Science chapters, with KaTeX math rendering
-- Full-stack: **Node.js / Express / MongoDB / Render**, deployed on **Vercel**
-- PDF generation, chapter-wise filtering, difficulty tagging
-
-**The real differentiator:** Built for an actual market. Not a tutorial clone.
-
----
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-<img height="55" src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="55" src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="55" src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="55" src="https://skillicons.dev/icons?i=nextjs" />&nbsp;&nbsp;&nbsp;&nbsp;
-<br/>
-
-### Backend
-<img height="55" src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="55" src="https://skillicons.dev/icons?i=express" />
-<br/>
-
-### Database
-<img height="55" src="https://skillicons.dev/icons?i=mongodb" />
-<br/>
-
-### Languages
-<img height="55" src="https://skillicons.dev/icons?i=cpp" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="55" src="https://skillicons.dev/icons?i=c" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="55" src="https://skillicons.dev/icons?i=js" />
-<br/>
-
-### Tools
-<img height="55" src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="55" src="https://skillicons.dev/icons?i=github" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="55" src="https://skillicons.dev/icons?i=vscode" />
-
-</div>
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gururajlande7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gururajlande7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gururajlande7&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<a href="https://linkedin.com/in/gururaj-lande"><img height="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/GururajLande/"><img height="40" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode"/></a>
 
 </div>
 
 ---
 
-## ⚔️ DSA Progress
+## About
+
+- Second-year Computer Engineering student
+- Building AutoPaper, a full-stack question paper generator for SSC Maharashtra Board and CBSE Class 10 students
+- Practicing data structures and algorithms in C++, targeting 400–500 LeetCode problems solved
+- Studying React, Next.js, and TypeScript in depth, alongside operating systems and database internals
+- Working toward a software engineering internship at a product-based company or well-funded startup
+
+---
+
+## Projects
+
+### [AutoPaper](https://github.com/gururajlande7/Autopaper)
+*Question paper generator for SSC Maharashtra Board and CBSE Class 10*
+
+`Next.js` `MongoDB Atlas` `Mongoose` `JWT` `KaTeX` · deployed on **Vercel**
+
+- **3,000+** question bank across Science chapters, with KaTeX math rendering
+- Weighted question-selection algorithm
+- Chapter, marks, and difficulty-based filtering
+- PDF generation
+
+> Built for an actual market, not as a tutorial project.
+
+---
+
+## Currently
+
+- Solving DSA problems daily on LeetCode (C++)
+- Studying Operating Systems and Database Management Systems
+
+---
+
+## Tech Stack
+
+**Languages**
 <br/>
-<div align="center">
-  <a href="https://leetcode.com/u/GururajLande/">
-    <img height="48" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode"/>
-  </a>
-</div>
+<img height="40" src="https://skillicons.dev/icons?i=cpp,c,js" />
+
+**Frontend**
 <br/>
+<img height="40" src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
 
-**Repo:** [`Leeetcode`](https://github.com/gururajlande7/Leeetcode) — Solving LeetCode 75 study plan in **C++** | Target: 500+ problems
+**Backend**
 <br/>
+<img height="40" src="https://skillicons.dev/icons?i=nodejs,express" />
 
-```
-Arrays & Hashing     ████████████░░░░  solving
-Two Pointers         ████████░░░░░░░░  in progress
-Sliding Window       ██████░░░░░░░░░░  in progress
-Binary Search        ████░░░░░░░░░░░░  upcoming
-Trees & Graphs       ░░░░░░░░░░░░░░░░  upcoming
-Dynamic Programming  ░░░░░░░░░░░░░░░░  upcoming
-```
+**Database**
+<br/>
+<img height="40" src="https://skillicons.dev/icons?i=mongodb" />
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gururajlande7&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
+**Tools**
+<br/>
+<img height="40" src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 
-## 🎯 2026–27 Roadmap
+## DSA Progress
 
-- [x] AutoPaper v1 — live on Render with 930+ question bank
-- [x] GitHub SSH setup + public DSA repo
-- [ ] LeetCode(C++) — 500 problems goal
-- [ ] Learning OS and DBMS
-- [ ] Make your own Git
-- [ ] GSoC exploration & first open source contributions
-- [ ] **SWE Internship (Summer 2027)**
+Solving on [LeetCode](https://leetcode.com/u/GururajLande/) in C++ — target: 400–500 problems.
+
+**202 / 4,068 solved** — Easy 106/968 · Medium 90/2121 · Hard 6/979
+
+| Fundamental | Intermediate | Advanced |
+|---|---|---|
+| Array (98) | Math (34) | Dynamic Programming (24) |
+| String (31) | DFS (30) | Union-Find (7) |
+| Two Pointers (29) | Tree (29) | Monotonic Stack (7) |
+| Stack (24) | Binary Tree (29) | Divide & Conquer (6) |
+| Sorting (22) | Hash Table (26) | Backtracking (4) |
+| Linked List (18) | BFS (22) | Game Theory (2) |
+| Matrix (14) | Greedy (16) | Trie (2) |
+| Simulation (8) | Binary Search (14) | Quickselect (1) |
 
 ---
 
-## 💡 Mindset
+## Roadmap
 
-> *I build for real users, not for my portfolio.*
-> AutoPaper has a live question bank, real students, and a production deployment.
-> That's the bar I hold everything else to.
+- [x] AutoPaper v1 — live on Vercel with 3,000+ question bank
+- [x] GitHub SSH setup and public DSA repository
+- [ ] LeetCode (C++) — 400–500 problems
+- [ ] Operating Systems and DBMS
+- [ ] Git implementation in C++
+- [ ] Open source contributions, working toward GSoC
+- [ ] Software engineering internship, Summer 2027
 
 ---
+
+## Philosophy
+
+I'd rather build something people actually use than add another portfolio project. AutoPaper is my attempt at that — a real product I keep improving, not a tutorial clone.
